@@ -1,3 +1,6 @@
 C:\Users\Pedro Andres\Documents\Projectos\BotNode\BotNode\obj\Debug\BotNode.njsprojResolveAssemblyReference.cache
 C:\Users\Pedro Andres\Documents\Projectos\BotNode\BotNode\obj\Debug\BotNode.njsproj.CoreCompileInputs.cache
 C:\Users\Pedro Andres\Documents\Projectos\BotNode\BotNode\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Pedro Andres\Source\Repos\NodeBotTest\BotNode\obj\Debug\BotNode.njsprojResolveAssemblyReference.cache
+C:\Users\Pedro Andres\Source\Repos\NodeBotTest\BotNode\obj\Debug\BotNode.njsproj.CoreCompileInputs.cache
+C:\Users\Pedro Andres\Source\Repos\NodeBotTest\BotNode\bin\Microsoft.NodejsTools.WebRole.dll

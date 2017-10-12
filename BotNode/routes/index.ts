@@ -12,4 +12,4 @@ router.get('/', (req: express.Request, res: express.Response) => {
     res.send(x.toString());
 });
 
-export default router;
+export default router; 
