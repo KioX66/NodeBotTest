@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "BotNode", "BotNode\BotNode.njsproj", "{D495C4F7-6588-416B-8B68-B20428508DC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D495C4F7-6588-416B-8B68-B20428508DC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D495C4F7-6588-416B-8B68-B20428508DC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D495C4F7-6588-416B-8B68-B20428508DC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D495C4F7-6588-416B-8B68-B20428508DC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E67AB5D1-3171-444D-AE56-11AD1A84C2E1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+C:\Users\Pedro Andres\Documents\Projectos\BotNode\BotNode\obj\Release\BotNode.njsproj.CoreCompileInputs.cache
+C:\Users\Pedro Andres\Documents\Projectos\BotNode\BotNode\bin\Microsoft.NodejsTools.WebRole.dll
